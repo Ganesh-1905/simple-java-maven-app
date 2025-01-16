@@ -18,4 +18,4 @@ This is just to trigger the build
 
 This should send an event to jenkins which should trigger a build
 
-Event to jenkins should trigger a build 16 Jan
+Event to jenkins should trigger a build 16 January
